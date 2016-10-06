@@ -1,0 +1,28 @@
+cask_args appdir: '/Applications'
+tap 'caskroom/cask'
+brew 'mysql'
+brew 'rbenv'
+brew 'pyenv'
+#brew 'virtualenv'
+brew 'git'
+#brew 'nvm' 直接入れたほうがよさそう
+#brew 'npm'
+
+cask 'google-japanese-ime'
+cask 'google-chrome'
+cask 'intellij-idea'
+cask 'iterm2'
+
+cask 'virtualbox'
+cask 'dropbox'
+cask 'vagrant'
+brew 'ansible'
+cask 'docker'
+cask 'google-japanese-ime'
+
+cask 'evernote'
+cask 'microsoft-office'
+cask 'iterm2'
+cask 'sourcetree'
+cask 'atom'
+cask 'skype'
