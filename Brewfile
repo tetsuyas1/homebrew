@@ -8,6 +8,9 @@ brew 'git'
 #brew 'nvm' 直接入れたほうがよさそう
 #brew 'npm'
 
+brew 'go'
+brew 'postgres'
+
 cask 'google-japanese-ime'
 cask 'google-chrome'
 cask 'intellij-idea'
@@ -26,3 +29,4 @@ cask 'iterm2'
 cask 'sourcetree'
 cask 'atom'
 cask 'skype'
+cask 'gyazo'
